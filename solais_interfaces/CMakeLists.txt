@@ -13,6 +13,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Armor.msg"
   "msg/Armors.msg"
   "srv/GetCameraInfo.srv"
+  "srv/DetectionTracking.srv"
 DEPENDENCIES
   builtin_interfaces
   std_msgs

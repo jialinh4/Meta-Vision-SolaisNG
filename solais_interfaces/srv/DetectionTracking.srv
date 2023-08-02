@@ -1,0 +1,7 @@
+# 请求
+float64 yaw
+float64 pitch
+---
+# 响应
+float64 new_yaw
+float64 new_pitch
